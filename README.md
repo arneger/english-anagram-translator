@@ -1,6 +1,6 @@
 # english-anagram-translator
 
-This is a simple english anagram translator created with Python. You can write an anagram and get
+This is a simple english anagram translator I created with Python. You can write an anagram and get
 results from the english dictionary with words that use the exact same characters
 as your input. You can also type a word and have the program create an anagram
 for you. 
